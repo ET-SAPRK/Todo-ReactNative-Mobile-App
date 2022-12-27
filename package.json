@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~47.0.9",
+    "@expo/vector-icons": "^13.0.0",
+    "components": "^0.1.0",
+    "constants": "^0.0.2",
+    "expo": "^47.0.9",
     "expo-status-bar": "~1.4.2",
+    "prop-types": "^15.8.1",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-swipe-list-view": "^3.2.9",
+    "styled": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
